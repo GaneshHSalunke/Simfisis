@@ -1,0 +1,44 @@
+.body{
+    font-family: "Lucida Console", Courier, monospace;
+}
+.header{
+    background-color: #2f614d;
+    color: #7fe7e9;
+}
+.carousel{
+    background: #2f4357;
+}
+   .carousel-item{
+    text-align: center;
+    min-height: 280px; 
+}
+   img{
+    width:100%;
+    height:500px;
+}
+.box1{
+    background-color: #9bddff;
+    padding: 70px;
+}
+.container h3{
+
+}
+.col{
+    padding: 10px;
+    margin: 10px;
+}
+.footer{
+    background-color: #2f614d;
+    color: #7fe7e9;
+    padding: 20px;
+}
+.footer a{
+    color: #7fe7e9;
+}
+.footer a:hover{
+    color: black;
+}
+.about{
+    background-color: white;
+   padding-top: 30px;
+}
